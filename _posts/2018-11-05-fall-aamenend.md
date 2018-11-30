@@ -15,12 +15,12 @@ Concentrated on the violence synonymously linked to Compton, people overlook its
 
 Despite there being a decrease in crime, including murder, media continues to report on the violent activities rather than the progress. “Deadly shooting results in death of two teens”, “man charged with murder”, “gang violence erupts in streets”, “links to illegal drug operations.” These are all the common headlines that appear in news reports and other media linked to the city of Compton. Major Aja Brown remarked on the infamous perception of Compton by stating, “Our violent crime has gone down 50 percent… and over the last 20 years, crime is down 71 percent” (Takahashi, 2015). Major Aja Brown herself serves as a symbol of the changes that have occurred in Compton over the years. The youngest major to ever hold the office in the city, she brings a fresh perspective and hope, and has made efforts to restore a positive image to the city she calls home. Rather than showing the development and strides made, the city remains synonymous with the word “violence” to outsiders. Negative media portal off Compton not only affects outsiders view of the city, but also damages the self-perceptions of the individuals living there. 
 
-![Compton Violent Crime Index](images/aamcompton1.jpg)
+![Compton Violent Crime Index](images/aamcompton4.jpg)
 {:.image}
 Decrease in Violent Crime 1999-2017 (from Citing Rating, 2018).
 {:.caption} 
 
-![Compton Property Crime Index](images/aamcompton1.jpg)
+![Compton Property Crime Index](images/aamcompton3.jpg)
 {:.image}
 Decreae in Property Crime 1999-2017 (from Citing Rating, 2018).
 {:.caption} 
