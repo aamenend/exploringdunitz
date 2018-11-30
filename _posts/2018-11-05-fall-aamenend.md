@@ -25,7 +25,12 @@ Tribute to Famous Compton Rapper Eazy-E. This image was taken by Jordyn Jones.
    {:.caption} 
    
 &nbsp; Demographics largely influence a city, creating challenges, shaping ideas, and changing the future trajectory. Despite the global perception that Compton’s population consists of a largely black community, a demographic shift occurred in the city and altered the historically black neighborhood.  Sixty six percent of the population of Compton is Hispanic, 31% Black, and 1% White (Census Reporter, 2018). These numbers are drastically different than the past, and with a shift in race Compton experienced a shift socially, culturally, and politically. The bi-lingual signs found across Compton serve as an outwardly expression of the demographic change. Despite a majority in population, Latinos still lack political representation. A professor of political science and Chicana/o Studies at Loyola Marymount University, Fernando Guerra stated, “Latinos have always been able to count on African-American support on major (civil rights) issues, but what happens at the local level… not as much” (El Nasser, 2013). The civil rights struggle form the black community heavy influenced the history of Compton, the black community’s culture and interest also molded the city. With the history of the city fundamentally shaped by the rights struggle from the black community, they seem very unwilling to hand over or share the power and representation they took so long to achieve. Parts of the Latino community seem unwilling to integrate culturally and politically as well, as they have become marginalized by the predominately black city government. Despite internal tensions in the community, several residents continue to band together to aid their city. 
-	
+
+![Billboard Compton, CA ](images/aamcompton2.jpg)
+   {:.image}
+Spanish/English Billboard Ad. This image was taken by Jordyn Jones.
+   {:.caption} 
+   
 &nbsp; Much of the change and progression that is occurring in Compton is a result of the strong commitment from people in the community who want to see their city and the members of it flourish despite sometimes formidable circumstances. Corruption and misconduct plague the history of the Compton Unified School District (CUSD), which affected and continues to negatively affect the students that attend. Due to the financial crisis that had developed and resulted in Compton students having the lowest academic performance in the state, CUSD became the first district in California that the state took control over (Sentilles, 2006). Education has long been seen as a tool and one of the main keys to achieving a brighter future. The academic struggle of the students reflected the failure of the school district in Compton. If education is the basis of a productive, successful life, Compton fell into a vicious cycle that did not provide the youth a means to break out and obtain the success that outsiders viewed as impossible for them. Public schools remain an issue in Compton to this day, but rather than passively accepting the failure of the school district, the community has taken a stand to ensure the success of the future for the city. Parents decided to come together and fight for the better education of their children, and petitioned for change in the school using the “California’s parent trigger law” (Newton, 2011) and despite daunting opposition. Parents who have struggled their entire lives see education as the means for their children to have better lives than their own, and took it upon themselves to make a difference in not only their community but their children’s lives. Parents are not the only members of the community taking the initiative to bring about change, even past perpetrators of the cycle of violence seen in Compton are taking strides to better the city they call home. 
 
 &nbsp; Violence remains a reoccurring theme when it comes to Compton. As violence brought Compton’s name to the national level and remains synonymous with the name of the city. Most American’s have some knowledge about the two most notorious gangs in Compton, the Bloods and the Crips, yet little know that even they have decided to look at the bigger picture and focus on the success of their community rather than the success of their respective gang. Mayor Aja Brown remarked on the truce between the gangs, stating “It’s real redemption when you can have people who were notorious for tearing down their community helping to build it up” (Allen, 2014). And build it up they have, as the residential property market has increased by 10% in 2014 people decided to move to a more reasonably priced neighborhood (Allen, 2014). The truce between the two major notorious gangs in Compton has not only led to a safer city, but also positively influenced the economy. People are more likely to move to a city with lower crime rates. Compton also provides well priced housing, partly due to this infamous title and the past it carries, which now motivates people to buy houses in the city. Compton is slowly beginning to move away from its violent filled past, towards the suburban community of its roots. Grassroot organizations also serve as a pillar for community development in the city.
@@ -33,47 +38,6 @@ Tribute to Famous Compton Rapper Eazy-E. This image was taken by Jordyn Jones.
 &nbsp; Compton continues on the path to re-development, as residents take collective action to make a difference and bring about reform in the city. Grassroot movements and organizations located in the city unite with the shared goal of improving the community and the lives of those living there. One such organization is Unearth and Empower Communities, a non-profit that started in 2008 aimed at “strengthening the areas of literacy, arts education, mentoring, and entrepreneurship” (Unearth and Empower, 2017). Uniting the local community by working with the residents and officials to address issues serves as the purpose for this organization. Unearth and Empower provides the lessons that can be used by the residents of the city in order to achieve the transformation so desired. Founded in 2006, The Compton Initiative functions as another such non-profit focused on restoring Compton by painting buildings in the community with the assistance of volunteers (The Compton Initiative, 2018). Painting buildings might seem like a minute action, especially when there appear to be more pressing significant issues that the community faces. The new paint not only restores the neighborhood and beautifies it, but can also be seen as a symbol for the re-birth of a city that has faced such hardships in the past. As fresh paint is an outwardly expression of the new hope for the future, and the act itself further brings the community together. 
 
 &nbsp; The current issues and progression occurring in Compton are intricately tied to its history. Largely forgotten, the city embodied the ideal suburban neighborhood with a flourishing industrial job sector. The perception of Compton remains closely linked to the gangs, violence, and other issues the city faced in the 80’s. A perception that the media continuously reinforces by focusing on any crime that does occur in the city. These views of Compton poison not only the city itself but the self-perception of its residents. The city has experienced a large change not only with its new demographic shift, but also the decrease in violence and the initiatives of the members of the community to transform the city. New buildings and housing developments are bluntly juxtaposed next to the empty buildings that still dot the sides of the main streets. Walking past the old and new buildings you’ll find murals that begin to create a fresh appearance for the city. Residents continue to face unemployment and the poverty that accompanies it. This city still remains starkly different from that of the idealistic city one imagines when they think of the “American Dream”. Though Compton remains stuck between a crime ridden city and a pleasant suburbia, its residents steadfastly continue towards their goal of restoring the city to the attractive nature of its past. 
-
-
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-   
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
-
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
 
 #### Works cited
 
