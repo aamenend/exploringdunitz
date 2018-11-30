@@ -15,11 +15,23 @@ Concentrated on the violence synonymously linked to Compton, people overlook its
 
 Despite there being a decrease in crime, including murder, media continues to report on the violent activities rather than the progress. “Deadly shooting results in death of two teens”, “man charged with murder”, “gang violence erupts in streets”, “links to illegal drug operations.” These are all the common headlines that appear in news reports and other media linked to the city of Compton. Major Aja Brown remarked on the infamous perception of Compton by stating, “Our violent crime has gone down 50 percent… and over the last 20 years, crime is down 71 percent” (Takahashi, 2015). Major Aja Brown herself serves as a symbol of the changes that have occurred in Compton over the years. The youngest major to ever hold the office in the city, she brings a fresh perspective and hope, and has made efforts to restore a positive image to the city she calls home. Rather than showing the development and strides made, the city remains synonymous with the word “violence” to outsiders. Negative media portal off Compton not only affects outsiders view of the city, but also damages the self-perceptions of the individuals living there. 
 
+![Compton Violent Crime Index](images/aamcompton1.jpg)
+{:.image}
+Decrease in Violent Crime 1999-2017 (from Citing Rating, 2018).
+{:.caption} 
+
+![Compton Property Crime Index](images/aamcompton1.jpg)
+{:.image}
+Decreae in Property Crime 1999-2017 (from Citing Rating, 2018).
+{:.caption} 
+   
+   
+
 Individuals are adversely impacted by the negative labeling of the city they are from or by being linked to a poor perception based on their demographics. Known as “stereotype threat,” research has shown that an individual that is part of a stereotyped group “experience[s] a number of effects that reduce performance” (The Opportunity Agenda, 2011). “Increased anxiety, self-consciousness about performance, and efforts to suppress negative thoughts and emotions all use up mental resources needed to perform well on cognitive and social tasks” (The Opportunity Agenda, 2011). Black males are especially subjected to and conscious of the stereotypes reinforced through the media, where they are often times depicted as unintelligent, violent, and less accomplished individuals. This is especially true in depictions of Compton. As the stereotypes of minority groups are reinforced in the media, they are also reinforced in the minds of the individuals. The education levels in Compton reflect the damaging impacts of the stereotype of being less educated and underachieving, as only 8.8% have a Bachelor’s degree or higher (Census Reporter, 2018). The stereotypes that media reinforces about Compton impact those living there and skew the view outsiders have towards the city, yet the art that has emerged from Compton has also played a key role in portraying the city.  
 
 The art that emerges from a city captures a moment in that time, providing a reflection of life and the life of those who produced or created it. For many, Compton became widely known when the rap group N.W.A emerged in the music scene in the 80’s. Rapping about racial issues, police violence, and surviving in Compton, the five young teenagers made Compton legendary. The lasting influence and impression that these artists had on the city can still be seen in Compton, with a large mural paying tribute to Eazy-E. Their music reflected the atmosphere they grew up in, rapping “Squeeze the trigger, and bodies are hauled off” (Cube, Paterson, & Curry, 1988). N.W.A. became so popular because the group consisted of young kids that spoke honestly about what occurred in their everyday lives. They brought the issues experienced by the residents of Compton and other people of color in similar cities to national attention. Their story remains not only a story of truth for that moment in time, but serves as an inspiration for the success that can be achieved by individuals from Compton. The image of Compton emerged in this time period, during “gang feuds, civil unrest, and the crack epidemic” (Takahashi, 2015) and the international image of the past remains as the city itself changes. Compton’s “soundtrack may always be rap, but today it’s a different type of beat” (Takahashi, 2015). The outsiders view of Compton needs to demonstrate the new development of the city, a view more reflective of the contemporary on goings in the city needs to be established. 
 
-![Eazy-E Mural Compton, CA ](images/compton1.jpg)
+![Eazy-E Mural Compton, CA ](images/aamcompton1.jpg)
 {:.image}
 Tribute to Famous Compton Rapper Eazy-E. This image was taken by Jordyn Jones.
 {:.caption} 
